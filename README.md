@@ -1,0 +1,2 @@
+# LinkWaGen
+Generator LinkChat WhatsApp
