@@ -5,7 +5,8 @@
 This tool is used to create link chat WhatsApp easily
 ```
 ## Tutorial
-```httpshttps://www.blackcodercrush.zone.id/2019/02/cara-buat-link-whatsapp-di-termux.html?m=1
+```
+https://www.blackcodercrush.zone.id/2019/02/cara-buat-link-whatsapp-di-termux.html?m=1
 ```
 ## Installation
 ```
