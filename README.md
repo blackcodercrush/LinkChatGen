@@ -12,9 +12,9 @@ $ cd LinkChatGen
 $ bash chat.wa
 ```
 ## Contack us
-'''
+```
 blackcodercrush@gmail.com
 https://github.com/BlackCoderCrush
 https://www.blackcodercrush.zone.id
 https://t.me/blackcodercrush
-'''
+```
