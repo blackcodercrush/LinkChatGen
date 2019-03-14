@@ -1,10 +1,11 @@
 <img src="https://1.bp.blogspot.com/-uK9MmdpscAc/XImZ3O_u2VI/AAAAAAAAAGw/IfWXPsmZSlcNBj3d0sVFmqwdc5RmxlWRwCLcBGAs/s320/linkwagen.jpg" />
 
 # LinkChatGen script
-```ThisThis tool is used to create link chat WhatsApp easily
+```
+This tool is used to create link chat WhatsApp easily
 ```
 ## Tutorial
-```https://www.blackcodercrush.zone.id/2019/02/cara-buat-link-whatsapp-di-termux.html?m=1
+```httpshttps://www.blackcodercrush.zone.id/2019/02/cara-buat-link-whatsapp-di-termux.html?m=1
 ```
 ## Installation
 ```
