@@ -1,5 +1,6 @@
 ## LinkChatGen script
-This tool is used to create link chat WhatsApp easily
+<img src="https://1.bp.blogspot.com/-uK9MmdpscAc/XImZ3O_u2VI/AAAAAAAAAGw/IfWXPsmZSlcNBj3d0sVFmqwdc5RmxlWRwCLcBGAs/s320/linkwagen.jpg" />
+ThisThis tool is used to create link chat WhatsApp easily
 
 ## Tutorial
 https://www.blackcodercrush.zone.id/2019/02/cara-buat-link-whatsapp-di-termux.html?m=1
